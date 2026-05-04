@@ -56,17 +56,16 @@
 ---
 
 ## GitHub Activity
-
 <p align="left">
-  <img src="https://streak-stats.demolab.com?user=raylienardy&theme=transparent&hide_border=true" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=raylienardy&theme=transparent&hide_border=true" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=raylienardy&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true&count_private=true" alt="GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=raylienardy&theme=transparent" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raylienardy&layout=compact&hide_border=true&theme=transparent" alt="Top languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=raylienardy&theme=transparent" />
 </p>
 
 ---
