@@ -56,7 +56,7 @@
 ---
 
 ## GitHub Activity
-<p align="left">
+<p align="center">
   <img src="https://streak-stats.demolab.com?user=raylienardy&theme=transparent&hide_border=true" />
 </p>
 
