@@ -75,10 +75,15 @@
 
 ## 📊 GitHub Activity
 
+<!-- Streak besar sendirian di atas -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=raylienardy&theme=transparent&hide_border=true" height="150" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=raylienardy&theme=transparent" height="150" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=raylienardy&theme=transparent" height="150" />
+  <img src="https://streak-stats.demolab.com?user=raylienardy&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="210" />
+</p>
+
+<!-- Dua kartu statistik berdampingan dengan ukuran lebih besar -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=raylienardy&theme=transparent" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=raylienardy&theme=transparent" height="170" />
 </p>
 
 ---
