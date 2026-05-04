@@ -60,12 +60,9 @@
   <img src="https://streak-stats.demolab.com?user=raylienardy&theme=transparent&hide_border=true" />
 </p>
 
-<p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=raylienardy&theme=transparent" />
-</p>
-
-<p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=raylienardy&theme=transparent" />
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=raylienardy&theme=transparent" height="150" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=raylienardy&theme=transparent" height="150" />
 </p>
 
 ---
