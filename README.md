@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I’m Alphocado <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30" /></h1>
+<h1 align="center">Hi, I’m Raynato Lienardy <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30" /></h1>
 
 <p align="center">
   <strong>Focused on growth and consistency.</strong>
@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Alphocado&color=0e7490&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=raylienardy&color=0e7490&style=flat-square" alt="Profile views" />
 </p>
 
 ---
@@ -58,15 +58,15 @@
 ## GitHub Activity
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Alphocado&theme=transparent&hide_border=true" alt="GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=raylienardy&theme=transparent&hide_border=true" alt="GitHub streak" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alphocado&show_icons=true&hide_border=true&theme=transparent" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=raylienardy&show_icons=true&hide_border=true&theme=transparent" alt="GitHub stats" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alphocado&layout=compact&hide_border=true&theme=transparent" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raylienardy&layout=compact&hide_border=true&theme=transparent" alt="Top languages" />
 </p>
 
 ---
@@ -92,7 +92,7 @@ Software Engineering (RPL)
 ## Contact
 
 - Email: **raylienardy@gmail.com**
-- GitHub: **[@Alphocado](https://github.com/Alphocado)**
+- GitHub: **[@raylienardy](https://github.com/raylienardy)**
 
 ---
 
