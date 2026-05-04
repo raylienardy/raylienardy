@@ -77,7 +77,7 @@
 
 <!-- Streak besar sendirian di atas -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=raylienardy&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
+  <img src="https://streak-stats.demolab.com?user=raylienardy&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height=""300"/>
 </p>
 
 <!-- Dua kartu statistik berdampingan dengan ukuran lebih besar -->
