@@ -58,11 +58,11 @@
 ## GitHub Activity
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=raylienardy&theme=transparent&hide_border=true" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=raylienardy&theme=transparent&hide_border=true" alt="GitHub streak" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=raylienardy&show_icons=true&hide_border=true&theme=transparent" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=raylienardy&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true&count_private=true" alt="GitHub stats" />
 </p>
 
 <p align="left">
