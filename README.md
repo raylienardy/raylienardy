@@ -15,7 +15,7 @@
 
 <!-- About Me dengan badge judul -->
 <p align="left">
-  <img src="https://img.shields.io/badge/🧑‍💻-About_Me-0e7490?style=flat-square" />
+  <img src="https://img.shields.io/badge/🧑‍💻-About_Me-0e7490?style=for-the-badge" />
 </p>
 <ul>
   <li>🎓 Mahasiswa <strong>Universitas Negeri Makassar</strong></li>
@@ -27,7 +27,7 @@
 
 <!-- Education -->
 <p align="left">
-  <img src="https://img.shields.io/badge/🎓-Education-0e7490?style=flat-square" />
+  <img src="https://img.shields.io/badge/🎓-Education-0e7490?style=for-the-badge" />
 </p>
 <ul>
   <li><strong>SMK Telkom Makassar</strong> – Software Engineering (RPL) | 2021–2024</li>
@@ -36,7 +36,7 @@
 
 <!-- Achievements -->
 <p align="left">
-  <img src="https://img.shields.io/badge/🏆-Achievements-0e7490?style=flat-square" />
+  <img src="https://img.shields.io/badge/🏆-Achievements-0e7490?style=for-the-badge" />
 </p>
 <ul>
   <li>🥉 3rd Winner — Web Design Competition, Electro Invention Race 2023</li>
