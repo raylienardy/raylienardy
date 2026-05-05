@@ -68,6 +68,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=figma&perline=1" />
 </p>
+
 ---
 
 ## 📊 GitHub Activity
